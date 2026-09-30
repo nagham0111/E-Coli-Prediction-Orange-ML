@@ -13,10 +13,7 @@ Hospital-acquired infections (HAIs) are a critical global healthcare challenge, 
 Traditional microbiological culture methods require **24 to 72 hours** to finalize results. This delay frequently postpones targeted antibiotic therapy, leading to the overuse of empirical broad-spectrum antibiotics and accelerating antimicrobial resistance.
 
 ###  Objective
-The primary goal of this project is to evaluate an interpretable, **no-code machine learning approach** to:
-1. Predict *E. coli* infection early at the exact time of specimen collection.
-2. Identify major clinical and demographic patient risk factors.
-3. Support infection control teams and clinicians in rapid, data-driven decision-making before culture results are finalized.
+This project highlights the crucial role of **Machine Learning (ML) in hospital surveillance** for early infection prediction. By analyzing routine data at specimen collection, ML models predict infections **before culture results are ready**, empowering clinicians with timely, data-driven decisions.
 
 ---
 
