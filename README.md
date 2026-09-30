@@ -3,7 +3,7 @@
 This repository contains the data analysis workflow and implementation of a no-code machine learning framework developed to predict *Escherichia coli* infections in hospitalized patients using the **Orange Data Mining** platform.
 
  **Status:** Published in *Scientific Reports (Nature Portfolio)*  
- **Official Publication:** [View the full paper on Nature]([https://nature.com](https://www.nature.com/articles/s41598-026-59795-y))
+🔗 **Official Publication:** [Click here to view the full paper on Nature](https://nature.com)
 
 ---
 
