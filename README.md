@@ -19,7 +19,7 @@ This project highlights the crucial role of **Machine Learning (ML) in hospital 
 
 ##  Repository Roadmap (Incremental Updates)
 - [x] **Day 1:** Project Introduction & Clinical Problem Statement (Current)
-- [/] **Day 2:** No-Code Machine Learning Workflow Pipeline (Orange Platform)
+- [ ] **Day 2:** No-Code Machine Learning Workflow Pipeline (Orange Platform)
 - [ ] **Day 3:** Exploratory Data Analysis & Hierarchical Clustering 
 - [ ] **Day 4:** Feature Importance & Model Interpretability (XAI)
 - [ ] **Day 5:** Classifiers Performance Evaluation & Overfitting Insights
